@@ -1,3 +1,3 @@
-# Synthetic sample 0
+# Synthetic sample 1
 
 A small invented tree for testing publication controls.
