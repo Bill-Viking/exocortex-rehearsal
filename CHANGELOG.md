@@ -1,5 +1,5 @@
 # Fixture changes
 
-## 0.0.1-rehearsal
+## 0.0.2-rehearsal
 
-Synthetic sample 1.
+Synthetic sample 2.
